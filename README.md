@@ -4,7 +4,11 @@ Will a blood cell count help determine if anemia is present?
 
 Will the calculation of the blood cell area help determine if the quality (size) of the cells is sufficient?
 
-Input: ::
+Input: 
 
 ![img](https://user-images.githubusercontent.com/106755542/192426627-db464295-ff85-4c2b-a944-9b26ee53fb85.png)
+
+Output:
+ 
+![result](https://user-images.githubusercontent.com/106755542/192426847-bc9252fb-6da7-4d58-baf1-399ae561bd89.png)
 
